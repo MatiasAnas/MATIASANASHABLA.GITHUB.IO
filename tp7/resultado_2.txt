@@ -1,0 +1,42 @@
+Probabilidad (Log): -1897.255634
+Probabilidad Secuencia Optima (Log): -1897.264618
+La secuencia fue:
+secuencia_hmm =
+
+     4     4     6
+
+>> q
+
+q =
+
+  Columns 1 through 20
+
+     1     2     2     2     2     2     2     2     2     2     2     2     2     2     2     3     3     3     4     4
+
+  Columns 21 through 40
+
+     4     4     4     2     2     2     2     2     2     2     2     2     2     2     2     2     2     2     2     2
+
+  Columns 41 through 60
+
+     2     2     2     2     2     3     3     3     3     3     3     3     3     3     3     3     3     3     3     3
+
+  Columns 61 through 80
+
+     3     4     4     4     4     4     4     4     4     4     4     4     4     4     4     4     4     4     4     4
+
+  Columns 81 through 100
+
+     4     4     4     4     4     4     4     5     5     5     5     5     5     5     5     5     5     5     5     5
+
+  Columns 101 through 120
+
+     5     5     5     5     5     5     5     5     5     5     5     5     5     5     5     5     5     6     6     6
+
+  Columns 121 through 140
+
+     6     6     6     6     6     6     6     6     6     6     7     7     7     7     7     7     7     7     7     7
+
+  Columns 141 through 157
+
+     7     7     7     7     7     7     7     7     7     7     7     7     7     7     7     7     8
